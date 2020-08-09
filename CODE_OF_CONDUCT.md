@@ -1,6 +1,6 @@
 # Code of Conduct
 
-As a group within Carnegie Mellon Univeristy, we also adhere to the [CMU Code of Business Ethics and Conduct](https://www.cmu.edu/policies/administrative-and-governance/code-business-ethics-conduct.html).
+As a group at Carnegie Mellon University, we also adhere to the [CMU Code of Business Ethics and Conduct](https://www.cmu.edu/policies/administrative-and-governance/code-business-ethics-conduct.html).
 
 ## Our Pledge
 
